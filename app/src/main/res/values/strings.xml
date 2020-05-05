@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Android Widgets</string>
+
+    <!--Widget - TextView-->
+    <string-array name="tech_names">
+        <item>Android</item>
+        <item>iOS</item>
+        <item>Node JS</item>
+        <item>Python</item>
+        <item>Ruby</item>
+        <item>Java</item>
+        <item>Elixir</item>
+        <item>Erlang</item>
+    </string-array>
+
+    <string-array name="user_names">
+        <item>Nandagopal</item>
+        <item>Ezhil</item>
+        <item>Prakash</item>
+        <item>Kalpesh</item>
+        <item>Raja</item>
+        <item>Rajiv</item>
+        <item>Swamy</item>
+    </string-array>
+    <string-array name="user_designation">
+        <item>Sr.Android Dev</item>
+        <item>Sr.iOS Dev</item>
+        <item>Sr.Android Dev</item>
+        <item>Technical Consultant</item>
+        <item>Sr.Android Dev</item>
+        <item>Technical Consultant</item>
+        <item>Sr.Android Dev</item>
+    </string-array>
+    <string-array name="user_location">
+        <item>Madurai</item>
+        <item>Madurai</item>
+        <item>Madurai</item>
+        <item>Gujrat</item>
+        <item>Thirunelveli</item>
+        <item>Kumbakonam</item>
+        <item>Thanjavur</item>
+    </string-array>
+
+</resources>
